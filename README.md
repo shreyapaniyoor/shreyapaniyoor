@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am Shreya Devadiga.
+I am Python full stack developer.
 <!--
 **shreyapaniyoor/shreyapaniyoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
